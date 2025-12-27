@@ -1,5 +1,3 @@
-# Deep-Learning-Brain-Tumor-Detection
-
 # 🧠 Brain Tumor Classification using CNN (Beyin Tümörü Sınıflandırma Projesi)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
