@@ -79,7 +79,9 @@ Sınıflandırma problemlerinde modelin kararlılığını ölçmek için hesapl
 
 Eğitim sürecinde elde edilen Accuracy (Başarı) ve Loss (Kayıp) grafikleri aşağıdadır:
 
-![Eğitim Grafikleri](Figure_1.png)
+![Uploading deneme1.png…]()<img width="1200" height="600" alt="deneme1" src="https://github.com/user-attachments/assets/389319ef-8c39-4668-8fbb-c8fdc90e052a" />
+
+
 
 * **Yorum:** Model, eğitim verisi üzerinde %90 üzeri başarı yakalamıştır. Doğrulama (Validation) verisinde ise %80 bandında dengeli bir seyir izlemiştir. Loss grafiğinde görülen dalgalanmalar, modelin genelleme yaparken zorlandığı noktaları işaret etmektedir.
 
