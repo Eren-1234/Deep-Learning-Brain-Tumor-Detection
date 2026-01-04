@@ -79,7 +79,7 @@ Sınıflandırma problemlerinde modelin kararlılığını ölçmek için hesapl
 
 Eğitim sürecinde elde edilen Accuracy (Başarı) ve Loss (Kayıp) grafikleri aşağıdadır:
 
-![Uploading deneme1.png…]()<img width="1200" height="600" alt="deneme1" src="https://github.com/user-attachments/assets/389319ef-8c39-4668-8fbb-c8fdc90e052a" />
+<img width="1200" height="600" alt="deneme1" src="https://github.com/user-attachments/assets/389319ef-8c39-4668-8fbb-c8fdc90e052a" />
 
 
 
