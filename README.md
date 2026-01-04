@@ -106,6 +106,10 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
     ```bash
     python derin_ogrenme.py
     ```
+## 👨‍💻 Geliştirici
 
+**[Eren Tarık Kınacı]**
+* [LinkedIn](https://www.linkedin.com/in/eren-tar%C4%B1k-k%C4%B1nac%C4%B1-b1b485232/)
+* [GitHub](https://github.com/Eren-1234)
 ---
 *Bu proje Eğitim Amaçlı geliştirilmiştir.*
