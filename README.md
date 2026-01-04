@@ -94,7 +94,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1.  Repoyu klonlayın:
     ```bash
-    git clone [https://github.com/kullaniciadi/brain-tumor-classification.git](https://github.com/kullaniciadi/brain-tumor-classification.git)
+    git clone [https://github.com/Eren-1234/Deep-Learning-Brain-Tumor-Detection.git](https://github.com/Eren-1234/Deep-Learning-Brain-Tumor-Detection.git)
     ```
 2.  Gerekli kütüphaneleri yükleyin:
     ```bash
